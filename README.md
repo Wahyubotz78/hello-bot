@@ -23,8 +23,8 @@ npm run build
 
 Hello bot use property:
 
-- [vue2]
-- [bootstrap bootstrap-vue]
-- [boxicons]
-- [vue-highlightjs]
-- [vuedraggable]
+- [vue2] - Framework
+- [bootstrap bootstrap-vue] - CSS Framework
+- [boxicons] - Icon
+- [vue-highlightjs] - Code Display
+- [vuedraggable] - Drag and drop item
